@@ -1,4 +1,4 @@
-﻿# L'apport des formats ouverts pour     le document numérique
+﻿# L'apport des formats ouverts pour le document numérique
 
 *La transformation numérique a profondément bouleversé notre manière de concevoir, produire, diffuser et conserver les documents. Parallèlement, le modèle du libre a émergé avec succès et rapidité, en s’imposant comme un acteur clé dans la société.*  
 
